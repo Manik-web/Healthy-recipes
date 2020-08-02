@@ -1,0 +1,12 @@
+img{height:150px;}
+
+.ingredients li{font-size:20px;
+list-style:square;}
+
+#cook-time {font-weight:bold;}
+
+.time {color:gray;}
+
+.citation a{color:seaGreen;}
+
+h1,h2,p,li{font-family:helvetica;}
